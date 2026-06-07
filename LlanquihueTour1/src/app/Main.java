@@ -62,7 +62,7 @@ public class Main {
         // Instancia 5: Cliente extranjero
         Direccion dirCliente2 = new Direccion("Rua das Flores", "210", "São Paulo", "Brasil");
         Cliente cliente2 = new Cliente(
-                "PASAPORTE-BR9821", "Lucas", "Oliveira",
+                "PASAPORTE-BR9821", "cristian", "Oliveira",
                 "+55 11 99876 5432", "lucas.oliveira@email.br", dirCliente2,
                 "Brasileña", "Grupo", "01/06/2025"
         );
